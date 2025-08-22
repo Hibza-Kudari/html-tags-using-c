@@ -1,0 +1,10 @@
+
+# Build artifacts
+check_html
+*.o
+*.obj
+*.exe
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
