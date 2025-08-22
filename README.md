@@ -23,6 +23,8 @@ The **HTML Tag Checker** is a mini-project in **C** that verifies whether HTML t
 - Standard I/O & String Libraries  
 - Stack Implementation in C  
 
+---
+
 ### 🚀 Workflow:  
 1. **Input**: Read HTML code (from file or standard input).  
 2. **Tag Extraction**: Identify tags enclosed in `< >`.  
